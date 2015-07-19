@@ -19,12 +19,13 @@ app.get('/', function (req, res) {
 res.sendFile(path.join(__dirname + '/index.html'));
 });
 
-app.get('/old', function (req, res) {
-    res.send('<html><head><title>Dropzone example</title><link href="/dropzone/downloads/css/dropzone.css" rel="stylesheet"></head><body><h1>Old form</h1><form method="post" action="/" id="old-example" enctype="multipart/form-data"><input name="file" type="file" multiple /><button>Save</button></form><script src="/dropzone/downloads/dropzone.js"></script></body></html>');
-});
+// app.get('/old', function (req, res) {
+//     res.send('<html><head><title>Dropzone example</title><link href="/dropzone/downloads/css/dropzone.css" rel="stylesheet"></head><body><h1>Old form</h1><form method="post" action="/" id="old-example" enctype="multipart/form-data"><input name="file" type="file" multiple /><button>Save</button></form><script src="/dropzone/downloads/dropzone.js"></script></body></html>');
+// });
 
 app.post('/', function (req, res) {
     //console.log(req.files);
+        app.use(express.static(__dirname + '/')); 
 
     var files = req.files.file;
     if (Array.isArray(files)) {
@@ -36,28 +37,28 @@ app.post('/', function (req, res) {
         console.log("Got one file");
     }
     res.sendStatus(200);
-    child = exec('cp uploads/*.csv uploads/1.csv; ls -d -1 uploads/*.* | grep -v \'1.csv\' | xargs rm; Rscript test.R; rm -rfv uploads/*',
-  function (error, stdout, stderr) {
-    console.log('stdout: ' + stdout);
-    console.log('stderr: ' + stderr);
-    if (error !== null) {
-      console.log('exec error: ' + error);
-    }
-    console.log(res.body);
-    app.use(express.static(__dirname + '/')); 
-    // res.end('It worked!');
-    // res.redirect("/")
-  // res.json(req.body);
-    // var img = document.createElement("img");
-    // img.src = "rplot.jpg";
-    // img.width = 500;
-    // img.height = 500;
-    // // This next line will just add it to the <body> tag
-    // document.body.appendChild(img);
-    // window.location.reload();
-    // location.assign("localhost:3000");
-    // res.redirect('https://google.com');
-});
+
+    // child = exec('cp uploads/*.csv uploads/1.csv; ls -d -1 uploads/*.* | grep -v \'1.csv\' | xargs rm; Rscript test.R; rm -rfv uploads/*',
+//   function (error, stdout, stderr) {
+//     console.log('stdout: ' + stdout);
+//     console.log('stderr: ' + stderr);
+//     if (error !== null) {
+//       console.log('exec error: ' + error);
+//     }
+//     console.log(res.body);
+//     // res.end('It worked!');
+//     // res.redirect("/")
+//   // res.json(req.body);
+//     // var img = document.createElement("img");
+//     // img.src = "rplot.jpg";
+//     // img.width = 500;
+//     // img.height = 500;
+//     // // This next line will just add it to the <body> tag
+//     // document.body.appendChild(img);
+//     // window.location.reload();
+//     // location.assign("localhost:3000");
+//     // res.redirect('https://google.com');
+// });
 });
 
 var server = app.listen(3000, function () {

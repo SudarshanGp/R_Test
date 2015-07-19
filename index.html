@@ -20,8 +20,16 @@
  </div>  
   <script>
   $(document).ready(function(){ 
-  	$("#test").click(function(){  
+  	$("#test").on('click', function(){ 
+  	       $.ajax({
+     		   url : 'run.php'
+   		 }).done(function(data) {
+        console.log(data);
+    });
+ 
+
   		setInterval(function(){ 
+
   			$("#image").attr("src", "/rplot.jpg?"+new Date().getTime());},2000); });});  
   	</script>  
    <script src="/dropzone/downloads/dropzone.js"></script>
