@@ -30,7 +30,7 @@ app.post('/', function (req, res) {
         console.log("Got one file");
     }
     res.sendStatus(200);
-    child = exec('cp uploads/*.csv uploads/1.csv; ls -d -1 uploads/*.* | grep -v \'1.csv\' | xargs rm',
+    child = exec('cp uploads/*.csv uploads/1.csv; ls -d -1 uploads/*.* | grep -v \'1.csv\' | xargs rm; Rscript test.R; rm -rfv uploads/*',
   function (error, stdout, stderr) {
     console.log('stdout: ' + stdout);
     console.log('stderr: ' + stderr);
