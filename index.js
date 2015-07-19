@@ -41,8 +41,8 @@ app.post('/', function (req, res) {
     if (error !== null) {
       console.log('exec error: ' + error);
     }
-
     console.log(res.body);
+    app.use(express.static(__dirname + '/')); 
     // res.end('It worked!');
     // res.redirect("/")
   // res.json(req.body);
