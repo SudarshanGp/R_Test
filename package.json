@@ -17,7 +17,8 @@
     "express",
     "dropzone",
     "multer",
-    "upload"
+    "upload",
+    "jquery"
   ],
   "author": "Sigurd Gartmann",
   "license": "MIT",
