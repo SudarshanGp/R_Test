@@ -1,4 +1,10 @@
-jpeg('rplot.jpg')
-a<-read.csv("uploads/1.csv", header = FALSE)
-hist(a$V1)
+# jpeg('rplot.jpg')
+# library(Cairo)
+library(plotrix)
+svg("AAPL.svg",width=140,height=70)
+d<-read.csv("su15.csv", header = TRUE)
+d1<-pie3D(d$Male, labels = d$Names, explode = 1, radius = 1.6, main = "Male in SU15")
+d1	
+# a<-read.csv("uploads/1.csv", header = FALSE)
+# hist(a$V1)
 dev.off()

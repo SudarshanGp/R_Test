@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="504px" height="504px" viewBox="0 0 504 504" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.4-4" time="2015-07-25 22:59:30"/>
+    <gridsvg:argument name="name" value="wild.svg"/>
+    <gridsvg:argument name="exportCoords" value="none"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <g transform="translate(0, 504) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" font-size="12" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="504" height="504" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.1">
+          <g id="plot_01.ylab.1">
+            <g id="plot_01.ylab.1.1" transform="translate(10.29, 255.44)" stroke-width="0.1">
+              <g id="plot_01.ylab.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ylab.1.1.text" transform="rotate(-90)" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ylab.1.1.tspan.1" dy="4.29" x="0">Freq</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="48.28" y="36.21" width="426.72" height="438.45" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticks.left.panel.1.1.1">
+            <polyline id="plot_01.ticks.left.panel.1.1.1.1" points="48.28,36.21 42.61,36.21" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.2" points="48.28,129.5 42.61,129.5" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.3" points="48.28,222.79 42.61,222.79" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.4" points="48.28,316.07 42.61,316.07" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.5" points="48.28,409.36 42.61,409.36" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(36.94, 129.5)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.1.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.1.tspan.1" dy="3.44" x="0">10</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(36.94, 222.79)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.2.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.2.tspan.1" dy="3.44" x="0">20</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(36.94, 316.07)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.3.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.3.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.3.tspan.1" dy="3.44" x="0">30</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(36.94, 409.36)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.4.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.4.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.4.tspan.1" dy="3.44" x="0">40</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(97.51, 30.54)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.1.tspan.1" dy="6.87" x="0">bike</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(179.57, 30.54)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.2.tspan.1" dy="6.87" x="0">bus</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.3" transform="translate(261.63, 30.54)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.3.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.3.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.3.tspan.1" dy="6.87" x="0">car</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.4" transform="translate(343.69, 30.54)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.4.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.4.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.4.tspan.1" dy="6.87" x="0">other</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.5" transform="translate(425.76, 30.54)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.5.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.5.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.5.tspan.1" dy="6.87" x="0">walk</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.ticks.right.panel.1.1.1">
+            <polyline id="plot_01.ticks.right.panel.1.1.1.1" points="474.99,36.21 480.66,36.21" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.2" points="474.99,129.5 480.66,129.5" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.3" points="474.99,222.79 480.66,222.79" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.4" points="474.99,316.07 480.66,316.07" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.1.1.1.5" points="474.99,409.36 480.66,409.36" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="48.28" y="36.21" width="426.72" height="438.45" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="plot_01.barchart.abline.h.panel.1.1.1">
+            <polyline id="plot_01.barchart.abline.h.panel.1.1.1.1" points="48.28,36.21 474.99,36.21" stroke="rgb(230,230,230)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.barchart.rect.panel.1.1.1">
+            <rect id="plot_01.barchart.rect.panel.1.1.1.1" x="69.17" y="36.21" width="56.69" height="37.31" fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill-opacity="0.2"/>
+            <rect id="plot_01.barchart.rect.panel.1.1.1.2" x="151.23" y="36.21" width="56.69" height="289.19" fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill-opacity="0.2"/>
+            <rect id="plot_01.barchart.rect.panel.1.1.1.3" x="233.29" y="36.21" width="56.69" height="326.51" fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill-opacity="0.2"/>
+            <rect id="plot_01.barchart.rect.panel.1.1.1.4" x="315.35" y="36.21" width="56.69" height="37.31" fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill-opacity="0.2"/>
+            <rect id="plot_01.barchart.rect.panel.1.1.1.5" x="397.41" y="36.21" width="56.69" height="242.55" fill="rgb(0,0,255)" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" stroke-opacity="1" fill-opacity="0.2"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="48.28" y="36.21" width="426.72" height="438.45" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+      <g id="plot_01.toplevel.vp.2" font-size="12">
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath">
+            <rect x="48.28" y="36.21" width="426.72" height="438.45" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath)">
+          <g id="sample.line.1.1">
+            <polyline id="sample.line.1.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.1.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.1.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.1.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.1.1.5" points="397.41,278.76 454.1,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.2.1">
+            <polyline id="sample.line.2.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.2.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.2.1.3" points="233.29,344.06 289.98,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.2.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.2.1.5" points="397.41,278.76 454.1,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.3.1">
+            <polyline id="sample.line.3.1.1" points="69.17,110.84 125.86,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.3.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.3.1.3" points="233.29,390.7 289.98,390.7" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.3.1.4" points="315.35,45.54 372.04,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.3.1.5" points="397.41,344.06 454.1,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.4.1">
+            <polyline id="sample.line.4.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.4.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.4.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.4.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.4.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.5.1">
+            <polyline id="sample.line.5.1.1" points="69.17,129.5 125.86,129.5" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.5.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.5.1.3" points="233.29,418.69 289.98,418.69" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.5.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.5.1.5" points="397.41,241.44 454.1,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.6.1">
+            <polyline id="sample.line.6.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.6.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.6.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.6.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.6.1.5" points="397.41,260.1 454.1,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.7.1">
+            <polyline id="sample.line.7.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.7.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.7.1.3" points="233.29,437.35 289.98,437.35" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.7.1.4" points="315.35,45.54 372.04,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.7.1.5" points="397.41,241.44 454.1,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.8.1">
+            <polyline id="sample.line.8.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.8.1.2" points="151.23,232.11 207.92,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.8.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.8.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.8.1.5" points="397.41,372.05 454.1,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.9.1">
+            <polyline id="sample.line.9.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.9.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.9.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.9.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.9.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.10.1">
+            <polyline id="sample.line.10.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.10.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.10.1.3" points="233.29,306.74 289.98,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.10.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.10.1.5" points="397.41,353.39 454.1,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.11.1">
+            <polyline id="sample.line.11.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.11.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.11.1.3" points="233.29,437.35 289.98,437.35" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.11.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.11.1.5" points="397.41,241.44 454.1,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.12.1">
+            <polyline id="sample.line.12.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.12.1.2" points="151.23,241.44 207.92,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.12.1.3" points="233.29,428.02 289.98,428.02" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.12.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.12.1.5" points="397.41,269.43 454.1,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.13.1">
+            <polyline id="sample.line.13.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.13.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.13.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.13.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.13.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.14.1">
+            <polyline id="sample.line.14.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.14.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.14.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.14.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.14.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.15.1">
+            <polyline id="sample.line.15.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.15.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.15.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.15.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.15.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.16.1">
+            <polyline id="sample.line.16.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.16.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.16.1.3" points="233.29,465.33 289.98,465.33" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.16.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.16.1.5" points="397.41,250.77 454.1,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.17.1">
+            <polyline id="sample.line.17.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.17.1.2" points="151.23,138.83 207.92,138.83" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.17.1.3" points="233.29,446.68 289.98,446.68" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.17.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.17.1.5" points="397.41,353.39 454.1,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.18.1">
+            <polyline id="sample.line.18.1.1" points="69.17,129.5 125.86,129.5" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.18.1.2" points="151.23,232.11 207.92,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.18.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.18.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.18.1.5" points="397.41,278.76 454.1,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.19.1">
+            <polyline id="sample.line.19.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.19.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.19.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.19.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.19.1.5" points="397.41,269.43 454.1,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.20.1">
+            <polyline id="sample.line.20.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.20.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.20.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.20.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.20.1.5" points="397.41,269.43 454.1,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.21.1">
+            <polyline id="sample.line.21.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.21.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.21.1.3" points="233.29,306.74 289.98,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.21.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.21.1.5" points="397.41,400.03 454.1,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.22.1">
+            <polyline id="sample.line.22.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.22.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.22.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.22.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.22.1.5" points="397.41,362.72 454.1,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.23.1">
+            <polyline id="sample.line.23.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.23.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.23.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.23.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.23.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.24.1">
+            <polyline id="sample.line.24.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.24.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.24.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.24.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.24.1.5" points="397.41,362.72 454.1,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.25.1">
+            <polyline id="sample.line.25.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.25.1.2" points="151.23,334.73 207.92,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.25.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.25.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.25.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.26.1">
+            <polyline id="sample.line.26.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.26.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.26.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.26.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.26.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.27.1">
+            <polyline id="sample.line.27.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.27.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.27.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.27.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.27.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.28.1">
+            <polyline id="sample.line.28.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.28.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.28.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.28.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.28.1.5" points="397.41,250.77 454.1,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.29.1">
+            <polyline id="sample.line.29.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.29.1.2" points="151.23,185.47 207.92,185.47" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.29.1.3" points="233.29,456 289.98,456" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.29.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.29.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.30.1">
+            <polyline id="sample.line.30.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.30.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.30.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.30.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.30.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.31.1">
+            <polyline id="sample.line.31.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.31.1.2" points="151.23,278.76 207.92,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.31.1.3" points="233.29,390.7 289.98,390.7" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.31.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.31.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.32.1">
+            <polyline id="sample.line.32.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.32.1.2" points="151.23,390.7 207.92,390.7" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.32.1.3" points="233.29,288.09 289.98,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.32.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.32.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.33.1">
+            <polyline id="sample.line.33.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.33.1.2" points="151.23,334.73 207.92,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.33.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.33.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.33.1.5" points="397.41,260.1 454.1,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.34.1">
+            <polyline id="sample.line.34.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.34.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.34.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.34.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.34.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.35.1">
+            <polyline id="sample.line.35.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.35.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.35.1.3" points="233.29,344.06 289.98,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.35.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.35.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.36.1">
+            <polyline id="sample.line.36.1.1" points="69.17,129.5 125.86,129.5" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.36.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.36.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.36.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.36.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.37.1">
+            <polyline id="sample.line.37.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.37.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.37.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.37.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.37.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.38.1">
+            <polyline id="sample.line.38.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.38.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.38.1.3" points="233.29,446.68 289.98,446.68" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.38.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.38.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.39.1">
+            <polyline id="sample.line.39.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.39.1.2" points="151.23,194.8 207.92,194.8" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.39.1.3" points="233.29,428.02 289.98,428.02" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.39.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.39.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.40.1">
+            <polyline id="sample.line.40.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.40.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.40.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.40.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.40.1.5" points="397.41,269.43 454.1,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.41.1">
+            <polyline id="sample.line.41.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.41.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.41.1.3" points="233.29,390.7 289.98,390.7" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.41.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.41.1.5" points="397.41,362.72 454.1,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.42.1">
+            <polyline id="sample.line.42.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.42.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.42.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.42.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.42.1.5" points="397.41,260.1 454.1,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.43.1">
+            <polyline id="sample.line.43.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.43.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.43.1.3" points="233.29,474.66 289.98,474.66" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.43.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.43.1.5" points="397.41,232.11 454.1,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.44.1">
+            <polyline id="sample.line.44.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.44.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.44.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.44.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.44.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.45.1">
+            <polyline id="sample.line.45.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.45.1.2" points="151.23,204.13 207.92,204.13" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.45.1.3" points="233.29,437.35 289.98,437.35" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.45.1.4" points="315.35,110.84 372.04,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.45.1.5" points="397.41,278.76 454.1,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.46.1">
+            <polyline id="sample.line.46.1.1" points="69.17,120.17 125.86,120.17" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.46.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.46.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.46.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.46.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.47.1">
+            <polyline id="sample.line.47.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.47.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.47.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.47.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.47.1.5" points="397.41,288.09 454.1,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.48.1">
+            <polyline id="sample.line.48.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.48.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.48.1.3" points="233.29,344.06 289.98,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.48.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.48.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.49.1">
+            <polyline id="sample.line.49.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.49.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.49.1.3" points="233.29,334.73 289.98,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.49.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.49.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.50.1">
+            <polyline id="sample.line.50.1.1" points="69.17,138.83 125.86,138.83" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.50.1.2" points="151.23,278.76 207.92,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.50.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.50.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.50.1.5" points="397.41,250.77 454.1,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.51.1">
+            <polyline id="sample.line.51.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.51.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.51.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.51.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.51.1.5" points="397.41,241.44 454.1,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.52.1">
+            <polyline id="sample.line.52.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.52.1.2" points="151.23,260.1 207.92,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.52.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.52.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.52.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.53.1">
+            <polyline id="sample.line.53.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.53.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.53.1.3" points="233.29,437.35 289.98,437.35" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.53.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.53.1.5" points="397.41,232.11 454.1,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.54.1">
+            <polyline id="sample.line.54.1.1" points="69.17,120.17 125.86,120.17" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.54.1.2" points="151.23,278.76 207.92,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.54.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.54.1.4" points="315.35,45.54 372.04,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.54.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.55.1">
+            <polyline id="sample.line.55.1.1" points="69.17,45.54 125.86,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.55.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.55.1.3" points="233.29,418.69 289.98,418.69" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.55.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.55.1.5" points="397.41,260.1 454.1,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.56.1">
+            <polyline id="sample.line.56.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.56.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.56.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.56.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.56.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.57.1">
+            <polyline id="sample.line.57.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.57.1.2" points="151.23,260.1 207.92,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.57.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.57.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.57.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.58.1">
+            <polyline id="sample.line.58.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.58.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.58.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.58.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.58.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.59.1">
+            <polyline id="sample.line.59.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.59.1.2" points="151.23,344.06 207.92,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.59.1.3" points="233.29,316.07 289.98,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.59.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.59.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.60.1">
+            <polyline id="sample.line.60.1.1" points="69.17,54.87 125.86,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.60.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.60.1.3" points="233.29,456 289.98,456" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.60.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.60.1.5" points="397.41,278.76 454.1,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.61.1">
+            <polyline id="sample.line.61.1.1" points="69.17,110.84 125.86,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.61.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.61.1.3" points="233.29,306.74 289.98,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.61.1.4" points="315.35,36.21 372.04,36.21" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.61.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.62.1">
+            <polyline id="sample.line.62.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.62.1.2" points="151.23,241.44 207.92,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.62.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.62.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.62.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.63.1">
+            <polyline id="sample.line.63.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.63.1.2" points="151.23,278.76 207.92,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.63.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.63.1.4" points="315.35,45.54 372.04,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.63.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.64.1">
+            <polyline id="sample.line.64.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.64.1.2" points="151.23,260.1 207.92,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.64.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.64.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.64.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.65.1">
+            <polyline id="sample.line.65.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.65.1.2" points="151.23,260.1 207.92,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.65.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.65.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.65.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.66.1">
+            <polyline id="sample.line.66.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.66.1.2" points="151.23,353.39 207.92,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.66.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.66.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.66.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.67.1">
+            <polyline id="sample.line.67.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.67.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.67.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.67.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.67.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.68.1">
+            <polyline id="sample.line.68.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.68.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.68.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.68.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.68.1.5" points="397.41,250.77 454.1,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.69.1">
+            <polyline id="sample.line.69.1.1" points="69.17,110.84 125.86,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.69.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.69.1.3" points="233.29,325.4 289.98,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.69.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.69.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.70.1">
+            <polyline id="sample.line.70.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.70.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.70.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.70.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.70.1.5" points="397.41,353.39 454.1,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.71.1">
+            <polyline id="sample.line.71.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.71.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.71.1.3" points="233.29,344.06 289.98,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.71.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.71.1.5" points="397.41,372.05 454.1,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.72.1">
+            <polyline id="sample.line.72.1.1" points="69.17,45.54 125.86,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.72.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.72.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.72.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.72.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.73.1">
+            <polyline id="sample.line.73.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.73.1.2" points="151.23,260.1 207.92,260.1" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.73.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.73.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.73.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.74.1">
+            <polyline id="sample.line.74.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.74.1.2" points="151.23,213.46 207.92,213.46" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.74.1.3" points="233.29,400.03 289.98,400.03" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.74.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.74.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.75.1">
+            <polyline id="sample.line.75.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.75.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.75.1.3" points="233.29,297.42 289.98,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.75.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.75.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.76.1">
+            <polyline id="sample.line.76.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.76.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.76.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.76.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.76.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.77.1">
+            <polyline id="sample.line.77.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.77.1.2" points="151.23,362.72 207.92,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.77.1.3" points="233.29,278.76 289.98,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.77.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.77.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.78.1">
+            <polyline id="sample.line.78.1.1" points="69.17,120.17 125.86,120.17" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.78.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.78.1.3" points="233.29,428.02 289.98,428.02" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.78.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.78.1.5" points="397.41,241.44 454.1,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.79.1">
+            <polyline id="sample.line.79.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.79.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.79.1.3" points="233.29,334.73 289.98,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.79.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.79.1.5" points="397.41,353.39 454.1,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.80.1">
+            <polyline id="sample.line.80.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.80.1.2" points="151.23,381.37 207.92,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.80.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.80.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.80.1.5" points="397.41,232.11 454.1,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.81.1">
+            <polyline id="sample.line.81.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.81.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.81.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.81.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.81.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.82.1">
+            <polyline id="sample.line.82.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.82.1.2" points="151.23,316.07 207.92,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.82.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.82.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.82.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.83.1">
+            <polyline id="sample.line.83.1.1" points="69.17,45.54 125.86,45.54" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.83.1.2" points="151.23,232.11 207.92,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.83.1.3" points="233.29,437.35 289.98,437.35" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.83.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.83.1.5" points="397.41,344.06 454.1,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.84.1">
+            <polyline id="sample.line.84.1.1" points="69.17,120.17 125.86,120.17" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.84.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.84.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.84.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.84.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.85.1">
+            <polyline id="sample.line.85.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.85.1.2" points="151.23,278.76 207.92,278.76" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.85.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.85.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.85.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.86.1">
+            <polyline id="sample.line.86.1.1" points="69.17,110.84 125.86,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.86.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.86.1.3" points="233.29,316.07 289.98,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.86.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.86.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.87.1">
+            <polyline id="sample.line.87.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.87.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.87.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.87.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.87.1.5" points="397.41,232.11 454.1,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.88.1">
+            <polyline id="sample.line.88.1.1" points="69.17,92.18 125.86,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.88.1.2" points="151.23,269.43 207.92,269.43" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.88.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.88.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.88.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.89.1">
+            <polyline id="sample.line.89.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.89.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.89.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.89.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.89.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.90.1">
+            <polyline id="sample.line.90.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.90.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.90.1.3" points="233.29,409.36 289.98,409.36" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.90.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.90.1.5" points="397.41,344.06 454.1,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.91.1">
+            <polyline id="sample.line.91.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.91.1.2" points="151.23,288.09 207.92,288.09" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.91.1.3" points="233.29,334.73 289.98,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.91.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.91.1.5" points="397.41,334.73 454.1,334.73" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.92.1">
+            <polyline id="sample.line.92.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.92.1.2" points="151.23,232.11 207.92,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.92.1.3" points="233.29,372.05 289.98,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.92.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.92.1.5" points="397.41,372.05 454.1,372.05" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.93.1">
+            <polyline id="sample.line.93.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.93.1.2" points="151.23,194.8 207.92,194.8" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.93.1.3" points="233.29,456 289.98,456" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.93.1.4" points="315.35,73.53 372.04,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.93.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.94.1">
+            <polyline id="sample.line.94.1.1" points="69.17,82.85 125.86,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.94.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.94.1.3" points="233.29,390.7 289.98,390.7" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.94.1.4" points="315.35,82.85 372.04,82.85" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.94.1.5" points="397.41,306.74 454.1,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.95.1">
+            <polyline id="sample.line.95.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.95.1.2" points="151.23,306.74 207.92,306.74" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.95.1.3" points="233.29,353.39 289.98,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.95.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.95.1.5" points="397.41,325.4 454.1,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.96.1">
+            <polyline id="sample.line.96.1.1" points="69.17,73.53 125.86,73.53" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.96.1.2" points="151.23,241.44 207.92,241.44" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.96.1.3" points="233.29,428.02 289.98,428.02" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.96.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.96.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.97.1">
+            <polyline id="sample.line.97.1.1" points="69.17,64.2 125.86,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.97.1.2" points="151.23,250.77 207.92,250.77" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.97.1.3" points="233.29,381.37 289.98,381.37" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.97.1.4" points="315.35,64.2 372.04,64.2" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.97.1.5" points="397.41,353.39 454.1,353.39" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.98.1">
+            <polyline id="sample.line.98.1.1" points="69.17,110.84 125.86,110.84" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.98.1.2" points="151.23,325.4 207.92,325.4" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.98.1.3" points="233.29,344.06 289.98,344.06" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.98.1.4" points="315.35,101.51 372.04,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.98.1.5" points="397.41,232.11 454.1,232.11" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.99.1">
+            <polyline id="sample.line.99.1.1" points="69.17,101.51 125.86,101.51" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.99.1.2" points="151.23,297.42 207.92,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.99.1.3" points="233.29,362.72 289.98,362.72" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.99.1.4" points="315.35,54.87 372.04,54.87" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.99.1.5" points="397.41,297.42 454.1,297.42" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+          <g id="sample.line.100.1">
+            <polyline id="sample.line.100.1.1" points="69.17,36.21 125.86,36.21" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.100.1.2" points="151.23,222.79 207.92,222.79" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.100.1.3" points="233.29,446.68 289.98,446.68" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.100.1.4" points="315.35,92.18 372.04,92.18" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+            <polyline id="sample.line.100.1.5" points="397.41,316.07 454.1,316.07" stroke-width="1.5" stroke="rgb(0,0,255)" stroke-opacity="0.2" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,563 @@
+-magnification
+ls
+demo()
+help()
+help(lappy)
+ls
+awe
+x <- c(2,3,7,9)
+y <- c(9,7,3,2)
+year <- 1990:1993#
+names <- c("payal", "shraddha", "kritika", "itida")
+y[1]#
+y[length(y)]
+person <- list(name="payal", x=2, y=9, year=1990)
+person
+person$name#
+person$x
+cbind(year, x, y)
+D <- data.frame(names, year, x, y)
+nrow(D)
+D$names
+D$names[nrow(D)]
+D$names[length(D$names)]
+library(zoo)#
+#
+# Some data to play with (Nifty on all fridays for calendar 2004) --#
+p <- structure(c(1946.05, 1971.9, 1900.65, 1847.55, 1809.75, 1833.65, 1913.6, 1852.65, 1800.3, 1867.7, 1812.2, 1725.1, 1747.5, 1841.1, 1853.55, 1868.95, 1892.45, 1796.1, 1804.45, 1582.4, 1560.2, 1508.75, 1521.1, 1508.45, 1491.2, 1488.5, 1537.5, 1553.2, 1558.8, 1601.6, 1632.3, 1633.4, 1607.2, 1590.35, 1609, 1634.1, 1668.75, 1733.65, 1722.5, 1775.15, 1820.2, 1795, 1779.75, 1786.9, 1852.3, 1872.95, 1872.35, 1901.05, 1996.2, 1969, 2012.1, 2062.7, 2080.5), index = structure(c(12419, 12426, 12433, 12440, 12447, 12454, 12461, 12468, 12475, 12482, 12489, 12496, 12503, 12510, 12517, 12524, 12531, 12538, 12545, 12552, 12559, 12566, 12573, 12580, 12587, 12594, 12601, 12608, 12615, 12622, 12629, 12636, 12643, 12650, 12657, 12664, 12671, 12678, 12685, 12692, 12699, 12706, 12713, 12720, 12727, 12734, 12741, 12748, 12755, 12762, 12769, 12776, 12783), class = "Date"), frequency = 0.142857142857143, class = c("zooreg", "zoo"))#
+#
+# Shift to returns --#
+r <- 100*diff(log(p))#
+head(r)#
+summary(r)#
+sd(r)#
+#
+# Compute the moving window vol --#
+vol <- sqrt(250) * rollapply(r, 20, sd, align = "right")#
+#
+# A pretty plot --#
+plot(vol, type="l", ylim=c(0,max(vol,na.rm=TRUE)),#
+     lwd=2, col="purple", xlab="2004",#
+     ylab=paste("Annualised sigma, 20-week window"))#
+grid()#
+legend(x="bottomleft", col=c("purple", "darkgreen"),#
+       lwd=c(2,2), bty="n", cex=0.8,#
+       legend=c("Annualised 20-week vol (left scale)", "Nifty (right scale)"))#
+par(new=TRUE)#
+plot(p, type="l", lwd=2, col="darkgreen",#
+     xaxt="n", yaxt="n", xlab="", ylab="")#
+axis(4)
+1+1
+"Arr, matey!"
+T
+f
+F
+T == FALSE
+sum(1,3,4)
+min>  min(5:1, pi)
+example(min)
+min(5:1, pi)
+pmin(5:1, pi)
+x <- sort(rnorm(100))
+x
+x <- sort(rnorm(10000))
+x
+pmin(quantile(x), cH)
+ranks <- 1:3
+ranks
+names()
+names(0)
+names(ranks)
+help(names)
+barplot(3,2,1)
+a <- (3,2,1)
+a <- c(3,2,1)
+barplot(a)
+names(a) <- ("first", "second", "third")
+names(a) <- c("first", "second", "third")
+barplot(a)
+barplot(1:100)
+barplot(a)
+barplot(1:100)
+barplot(a)
+barplot(1:6)
+x <- c(1,4,6)
+bargraph(x)
+barplot(c)
+barplot(x)
+ls
+bargraph(1:3)
+barplot(1:3)
+boxplot(1:4)
+pwd
+ls
+x <- table.read("qns3.txt")
+x <- read.table("qns3.txt")
+x <- read.table(qns3.txt)
+x <- read.table("qns3.txt")
+x = read.table("qns3.txt")
+load(".RData")
+x = read.table("qns3.txt")
+ls()
+clear
+help()
+l
+ls
+library(cluster)
+clusplot(feats)
+str(iris)
+iris
+irisdat
+iris
+data <- iris
+data
+demo()
+mkdir
+install.packages("devtools")
+library("devtools")
+library(devtools)
+install.packages("devtools")
+version
+install.packages("ggplo2")
+install.packages("ggplot2")
+library(devtools)
+install_github('rCharts', 'ramnathv')
+require(XML)
+library("XML")
+install.packages("XML")
+library("XML")
+require(XML)
+require(rCharts)
+url<-"http://cran.r-project.org/web/views/Spatial.html"
+spat<-readHTMLList(url, stringsAsFactors = F)[[2]]
+spat
+spat<-gsub(" \\(core\\)", "", spat)
+spat
+getPkgInfo<-function(pkg){#
+  url = paste("http://cran.r-project.org/web/packages/", pkg, "/index.html", sep="")#
+#
+  # get table of details and extract most current date#
+  dtl<-readHTMLTable(url, stringsAsFactors = F)[[1]]#
+  curdate<-dtl[which(dtl[,1]=="Published:"),2]#
+#
+  # get first archive date#
+  url = paste('http://cran.r-project.org/src/contrib/Archive/', pkg, '/', sep="")#
+  packages = try(readHTMLTable(url, stringsAsFactors = F)[[1]][-1,])#
+#
+  # if there is no archive first date is current date#
+  if(class(packages)=='try-error'){#
+    print("in error")#
+    firstdate<-as.Date(curdate)#
+#
+  #otherwise get first archive date#
+  }else{ #
+#
+    packages<-packages[-1,]#
+    firstdate<-as.Date(packages[1,"Last modified"],"%d-%b-%Y %H:%M")#
+  }#
+  return(data.frame(pkg=pkg, firstdate=firstdate, curdate=curdate))#
+}
+getPkgInfo
+pkgdates<-do.call("rbind", lapply(spat, getPkgInfo))
+pkgdates<-pkgdates[order(pkgdates$firstdate),]
+getPkgInfo
+lapply(spat, getPkgInfo)
+a <- lapply(spat, getPkgInfo)
+require( rCharts )
+install_github('slidify', 'ramnathv', ref = 'dev')
+require(devtools)
+require(rCharts)
+install_github('slidify', 'ramnathv', ref = 'dev')
+options(RCHART_TEMPLATE = 'Rickshaw.html')
+getwd()
+data = data.frame(#
+c( 0, 1, 2, 3 ),#
+  c( 40, 49, 17, 42 ),#
+  stringsAsFactors = FALSE#
+)
+colnames(data) <- c("x","y")
+r1 <- Rickshaw$new()
+r1$layer(#
+  y ~ x,#
+  data = data,#
+  type = "area",#
+  colors= "steelblue",#
+  height = 240,#
+  width = 540#
+)
+r1$set(#
+  hoverDetail = FALSE,#
+  xAxis = FALSE,#
+  yAxis = FALSE,#
+  shelving = FALSE,#
+  legend = FALSE,#
+  slider = FALSE,#
+  highlight = FALSE#
+)
+require(devtools)
+install_github("slidify", "ramnathv")
+install_github("slidifyLibraries", "ramnathv")
+library(slidify)
+setwd("~/Documents/Github/R_Test/")
+author("mydeck")
+setwd("~/Documents/Github/slidify//")
+getwd9)
+getwd()
+author("mydeck")
+slidify("index.Rmd")
+author("mydeck")
+slidify("index.Rmd")
+slidify("index.Rmd")
+R
+XML
+b = newXMLNode("bob")
+library(XML)
+b = newXMLNode("bob")
+b
+saveXML(b)
+require(ggplot2)
+library(gridSVG)
+install.packages("gridSVG", repos="http://R-Forge.R-project.org")
+getwd()
+setwd("~/Documents/Github/R_Test/")
+source "test1.R"
+source test1.R
+source test1
+source 'test1.R'
+source (test1.R)
+source("test1.R")
+library(gridSVG)#
+library(XML)
+library(RJSONIO)
+require(ggplot2)
+set.seed(955)
+dat <- data.frame(cond = rep(c("A", "B"), each=10),#
+                  xvar = 1:20 + rnorm(20,sd=3),#
+                  yvar = 1:20 + rnorm(20,sd=3))
+dat
+g4 <- ggplot(dat, aes(x=xvar, y=yvar)) +#
+  geom_smooth() +  #we'll see why order is important#
+  geom_point(shape=19, aes(color = cond), size=5)
+g4
+g4.svg <- grid.export("plot1.svg",addClasses=TRUE)
+require(gridSVG)
+g4
+g4.svg <- grid.export("plot1.svg",addClasses=TRUE)
+cat(saveXML(g4.svg$svg))
+str(g4)
+head(g4$data)
+cat(#
+  '<script> ourdata=',#
+  rjson::toJSON(apply(g4$data,MARGIN=1,FUN=function(x)return(list(x)))),#
+  '</script>'#
+)
+install.packages("rjson")
+library(rjson)
+cat(#
+  '<script> ourdata=',#
+  rjson::toJSON(apply(g4$data,MARGIN=1,FUN=function(x)return(list(x)))),#
+  '</script>'#
+)
+cat(#
+  '<script> dataToBind = ',#
+  'd3.entries(ourdata.map(function(d,i) {return d[0]}))',#
+  '</script>'#
+)
+cat(#
+  '<script>\n',#
+  'scatterPoints = d3.select(".points").selectAll("use");\n',#
+  'scatterPoints.data(dataToBind)',#
+  '</script>\n'#
+)
+cat('<script>\n',#
+'scatterPoints  #
+    .on("mouseover", function(d) {      #
+      //Create the tooltip label#
+      var tooltip = d3.select(this.parentNode).append("g");#
+      tooltip#
+        .attr("id","tooltip")#
+        .attr("transform","translate("+(d3.select(this).attr("x")+10)+","+d3.select(this).attr("y")+")")#
+        .append("rect")#
+          .attr("stroke","white")#
+          .attr("stroke-opacity",.5)#
+          .attr("fill","white")#
+          .attr("fill-opacity",.5)#
+          .attr("height",30)#
+          .attr("width",50)#
+          .attr("rx",5)#
+          .attr("x",2)#
+          .attr("y",5);#
+      tooltip.append("text")#
+        .attr("transform","scale(1,-1)")#
+        .attr("x",5)#
+        .attr("y",-22)#
+        .attr("text-anchor","start")#
+        .attr("stroke","gray")#
+        .attr("fill","gray")#
+        .attr("fill-opacity",1)#
+        .attr("opacity",1)#
+        .text("x:" + Math.round(d.value.xvar*100)/100);#
+      tooltip.append("text")#
+        .attr("transform","scale(1,-1)")#
+        .attr("x",5)#
+        .attr("y",-10)#
+        .attr("text-anchor","start")#
+        .attr("stroke","gray")#
+        .attr("fill","gray")      #
+        .attr("fill-opacity",1)#
+        .attr("opacity",1)#
+        .text("y:" + Math.round(d.value.yvar*100)/100);#
+    })              #
+    .on("mouseout", function(d) {       #
+        d3.select("#tooltip").remove();  #
+    });',#
+'</script>'#
+)
+# Categorical sampling animation#
+# (from Fig 11 of Wild et al's RSS article)#
+#
+# Data based on Census at School Table Maker#
+# https://www.censusatschool.org.nz/2011/table-maker/?f1=travel&f2=#
+#
+modes <- c("walk", "car", "bus", "bike", "other")#
+travel <- factor(rep(modes,#
+                     c(7349, 8992, 6486, 1156, 263+311+384)))#
+#
+# Take many samples from the pop and tabulate them#
+n <- 100#
+sn <- 100#
+samples <- lapply(1:n, function(i) { table(sample(travel, sn)) })#
+#
+# Plot the samples (first as a barplot, all as horizontal bars)#
+library(grid)#
+library(lattice)#
+boxWidth <- unit(2, "cm")#
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)#
+# Add the horizontal bars#
+trellis.focus("panel", 1, 1)#
+count <- 1#
+samplefun <- function(samp) {#
+    grid.segments(unit(1:5, "native") - 0.5*boxWidth,#
+                  unit(samp, "native"), #
+                  unit(1:5, "native") + 0.5*boxWidth,#
+                  unit(samp, "native"),#
+                  gp=gpar(lwd=2, col=rgb(0,0,1,.2)),#
+                  name=paste("sample.line", count, sep="."))#
+    count <<- count + 1#
+}    #
+lapply(samples, samplefun)#
+trellis.unfocus()#
+# Animate the bar height#
+library(gridSVG)#
+time <- 10#
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+#              height=animUnit(unit(unlist(samples), "native"),#
+#                              id=rep(1:5, n)),#
+             duration=time, interpolate="discrete")#
+# Animate the visibility of the horizontal bars#
+for (i in 1:n) {#
+    grid.garnish(paste("sample.line", i, sep="."),#
+                 visibility="hidden")#
+    grid.animate(paste("sample.line", i, sep="."),#
+                 visibility=c("hidden", "visible"),#
+                 group=TRUE,#
+                 begin=i/n*time,#
+                 duration=.01)#
+}#
+gridToSVG("wild.svg")
+# Categorical sampling animation#
+# (from Fig 11 of Wild et al's RSS article)#
+#
+# Data based on Census at School Table Maker#
+# https://www.censusatschool.org.nz/2011/table-maker/?f1=travel&f2=#
+#
+modes <- c("walk", "car", "bus", "bike", "other")#
+travel <- factor(rep(modes,#
+                     c(7349, 8992, 6486, 1156, 263+311+384)))#
+#
+# Take many samples from the pop and tabulate them#
+n <- 100#
+sn <- 100#
+samples <- lapply(1:n, function(i) { table(sample(travel, sn)) })#
+#
+# Plot the samples (first as a barplot, all as horizontal bars)#
+library(grid)#
+library(lattice)#
+boxWidth <- unit(2, "cm")#
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)#
+# Add the horizontal bars#
+trellis.focus("panel", 1, 1)#
+count <- 1#
+samplefun <- function(samp) {#
+    grid.segments(unit(1:5, "native") - 0.5*boxWidth,#
+                  unit(samp, "native"), #
+                  unit(1:5, "native") + 0.5*boxWidth,#
+                  unit(samp, "native"),#
+                  gp=gpar(lwd=2, col=rgb(0,0,1,.2)),#
+                  name=paste("sample.line", count, sep="."))#
+    count <<- count + 1#
+}    #
+lapply(samples, samplefun)#
+trellis.unfocus()#
+# Animate the bar height#
+library(gridSVG)#
+time <- 10#
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+#              height=animUnit(unit(unlist(samples), "native"),#
+#                              id=rep(1:5, n)),#
+             duration=time, interpolate="discrete")#
+# Animate the visibility of the horizontal bars#
+for (i in 1:n) {#
+    grid.garnish(paste("sample.line", i, sep="."),#
+                 visibility="hidden")#
+    grid.animate(paste("sample.line", i, sep="."),#
+                 visibility=c("hidden", "visible"),#
+                 group=TRUE,#
+                 begin=i/n*time,#
+                 duration=.01)#
+}#
+gridToSVG("wild.svg")
+trellis.unfocus()
+# Categorical sampling animation#
+# (from Fig 11 of Wild et al's RSS article)#
+#
+# Data based on Census at School Table Maker#
+# https://www.censusatschool.org.nz/2011/table-maker/?f1=travel&f2=#
+#
+modes <- c("walk", "car", "bus", "bike", "other")#
+travel <- factor(rep(modes,#
+                     c(7349, 8992, 6486, 1156, 263+311+384)))#
+#
+# Take many samples from the pop and tabulate them#
+n <- 100#
+sn <- 100#
+samples <- lapply(1:n, function(i) { table(sample(travel, sn)) })#
+#
+# Plot the samples (first as a barplot, all as horizontal bars)#
+library(grid)#
+library(lattice)#
+boxWidth <- unit(2, "cm")#
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)#
+# Add the horizontal bars#
+trellis.focus("panel", 1, 1)#
+count <- 1#
+samplefun <- function(samp) {#
+    grid.segments(unit(1:5, "native") - 0.5*boxWidth,#
+                  unit(samp, "native"), #
+                  unit(1:5, "native") + 0.5*boxWidth,#
+                  unit(samp, "native"),#
+                  gp=gpar(lwd=2, col=rgb(0,0,1,.2)),#
+                  name=paste("sample.line", count, sep="."))#
+    count <<- count + 1#
+}    #
+lapply(samples, samplefun)#
+trellis.unfocus()#
+# Animate the bar height#
+library(gridSVG)#
+time <- 10#
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+#              height=animUnit(unit(unlist(samples), "native"),#
+#                              id=rep(1:5, n)),#
+             duration=time, interpolate="discrete")#
+gridToSVG("wild.svg")
+library(grid)
+library(grid)
+library(lattice)
+boxWidth <- unit(2, "cm")
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)
+trellis.focus("panel", 1, 1)
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)
+boxWidth <- unit(2, "cm")
+barchart(samples[[1]],#
+         col=rgb(0,0,1,.2),#
+         ylim=c(0, max(sapply(samples, max))),#
+         horizontal=FALSE,#
+         box.width=boxWidth)
+trellis.focus("panel", 1, 1)
+count <- 1#
+samplefun <- function(samp) {#
+    grid.segments(unit(1:5, "native") - 0.5*boxWidth,#
+                  unit(samp, "native"), #
+                  unit(1:5, "native") + 0.5*boxWidth,#
+                  unit(samp, "native"),#
+                  gp=gpar(lwd=2, col=rgb(0,0,1,.2)),#
+                  name=paste("sample.line", count, sep="."))#
+    count <<- count + 1#
+}
+samplefun
+lapply(samples, samplefun)
+trellis.unfocus()
+library(gridSVG)
+time <- 10
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+#              height=animUnit(unit(unlist(samples), "native"),#
+#                              id=rep(1:5, n)),#
+             duration=time, interpolate="discrete")
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+library(grid)
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+grid.ls
+grid.ls()
+grid.animate("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+grid.export("plot_01.barchart.rect.panel.1.1",#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+library(gridSVG)
+grid.circle(.1, .5, r=.1, gp=gpar(fill="black"),#
++ name="circle")
+grid.circle(.1, .5, r=.1, gp=gpar(fill="black"),#
+ name="circle")
+grid.animate("circle", x=c(.1, .9))
+grid.circle
+help
+help()
+grid.export(#
+             height=do.call("rbind", samples),#
+             duration=time, interpolate="discrete")
+animate("plot_01.barchart.rect.panel.1.1", dev)
+library(grid)
+library(gridSVG)
+grid.rect(x = c(0.3, 0.7), y = 0.4,#
++           width = 0.2, height = 0.2,#
++           gp = gpar(fill = "black"))
+grid.rect(x = c(0.3, 0.7), y = 0.4,           width = 0.2, height = 0.2,      gp = gpar(fill = "black"))
+grid.ls()
+yunits <- animUnit(unit(c(rep(0.4, 3),#
+                           0.4, 0.7, 0.4), "npc"),#
+                    id = rep(1:2, each = 3))
+grid.animate("GRID.rect.292", y = yunits, rep = TRUE)
+grid.animate("GRID.rect.1", y = yunits, rep = TRUE)
+grid.export("example.svg")
