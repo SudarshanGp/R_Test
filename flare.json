@@ -1,0 +1,19 @@
+
+{
+ "name": "Summer 2015",
+ "children": [
+  {
+   "name": "Agricultural & Biological Engineering",
+   "children": [
+    {
+     "name": "Gender",
+     "children": [
+      {"name": "Male", "size": 33},
+      {"name": "Female", "size": 34}
+     ]
+    }
+     ]
+    }
+   ]
+  }
+
