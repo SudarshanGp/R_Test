@@ -43,10 +43,11 @@ var svg = d3.select("body").append("svg")
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");
 
-d3.json("flare.json", function(error, json) {
+d3.json("output.json", function(error, json) {
   if (error) throw error;
 
   root = json;
+  console.log(root)
   update();
 });
 
@@ -137,3 +138,6 @@ function flatten(root) {
 }
 
 </script>
+
+<script src="test_1.js"></script>
+</body>
