@@ -37,8 +37,7 @@ var force = d3.layout.force()
     .on("tick", tick);
 
 var svg = d3.select("body").append("svg")
-    .attr("width", width)
-    .attr("height", height);
+.attr("viewBox", "0 0 " + width + " " + height );
 
 var link = svg.selectAll(".link"),
     node = svg.selectAll(".node");

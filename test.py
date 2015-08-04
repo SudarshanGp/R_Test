@@ -21,7 +21,7 @@ for row in csv.DictReader(csvfile):
 
 output['children'].append(
 {
-	'name' : 'gender',
+	'name' : 'Gender',
 	'children' : gender['children']
 })
 json.dump(output, jsonfile)
