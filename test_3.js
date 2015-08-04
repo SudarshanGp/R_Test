@@ -399,7 +399,10 @@ treeJSON = d3.json("output.json", function(error, treeData) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return d.name;
+                // if(d.size)
+                //     return d.name + " " + d.size;
+                // else
+                    return d.name
             })
             .style("fill-opacity", 0);
 
@@ -426,7 +429,10 @@ treeJSON = d3.json("output.json", function(error, treeData) {
                 return d.children || d._children ? "end" : "start";
             })
             .text(function(d) {
-                return d.name;
+                                if(d.size)
+                    return d.name + " " + d.size;
+                else
+                    return d.name
             });
 
         // Change the circle fill depending on whether it has children and is collapsed
